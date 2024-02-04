@@ -1,4 +1,4 @@
-module github.com/tttulepbergen/tsis
+module github.com/tttulepbergen/tsis1
 
 go 1.21.6
 
